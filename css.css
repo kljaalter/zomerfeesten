@@ -83,16 +83,20 @@ li a {
 }
 
 .DJ {
-	width:140px;
-	height:140px;
+	/*width:170px; 5 DJ */
+	/*height:170px; 5 DJ */
+	width:140px; /*6 DJ */
+	height:140px; /*6 DJ*/
 	/* background-color:red; */
 	margin:5px;
 	float:left;
 }
 
 .DJIMAGE {
-	width:140px;
-	height:140px;
+	/*width:170px; 5 DJ */
+	/*height:170px; 5 DJ */
+	width:140px; /*6 DJ */
+	height:140px; /*6 DJ*/
   -webkit-filter: opacity(1);
   filter: opacity(1);
 	-webkit-transition: -webkit-filter 0.2s; /* Safari */
@@ -122,7 +126,7 @@ li a {
 	margin:15px;
 	  color: Black;
 	font-family:arial;
-	font-size:20px;
+	font-size:18px;
 }
 
 #footer {
